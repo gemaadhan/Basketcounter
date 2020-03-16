@@ -1,7 +1,5 @@
 # Basketcounter
 
-This is just simple app for counting basketball scores
+## This is just simple app for counting basketball scores
 
-![basketball counter](https://github.com/gemaadhan/Basketcounter/blob/master/appdisplay/1.jpeg)
-![basketball counter](https://github.com/gemaadhan/Basketcounter/blob/master/appdisplay/2.jpeg)
-![basketball counter](https://github.com/gemaadhan/Basketcounter/blob/master/appdisplay/3.jpeg)
+<img src="appdisplay/3.jpeg" alt="drawing" width=200px/> <img src="appdisplay/2.jpeg" alt="drawing" width=200px/> <img src="appdisplay/1.jpeg" alt="drawing" width=200px/>
